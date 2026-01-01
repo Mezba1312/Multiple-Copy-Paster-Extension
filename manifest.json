@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Custom Row Copy Extension",
+    "version": "1.0",
+    "description": "Copy text rows with custom formatting and editing options.",
+    "permissions": ["clipboardWrite"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
